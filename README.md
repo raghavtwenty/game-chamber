@@ -33,3 +33,16 @@ the usernames and levels of all the friends signed up in the application.
 6. The specific page of each game will describe the game statistics like total game points, total play time,
 specific game points , chamber points and missions completed.
 7. The profile page also has a logout button which logs
+
+
+# Screenshots
+
+![Screen Shot 2023-04-02 at 10 25 17 AM](https://user-images.githubusercontent.com/126254197/229332311-01f6fb1a-7c51-4cbd-8cac-5c437a029881.png)<br>
+![Screen Shot 2023-04-02 at 10 25 33 AM](https://user-images.githubusercontent.com/126254197/229332313-74ee52aa-8a5d-4ca5-a6af-a2d78d9eb3ee.png)<br>
+![Screen Shot 2023-04-02 at 10 25 53 AM](https://user-images.githubusercontent.com/126254197/229332315-10b387e2-269e-4e11-ae7b-bb37f330008d.png)<br>
+![Screen Shot 2023-04-02 at 10 26 22 AM](https://user-images.githubusercontent.com/126254197/229332318-cf524d6d-c906-4111-9816-edd1c87d5b49.png)<br>
+![Screen Shot 2023-04-02 at 10 26 41 AM](https://user-images.githubusercontent.com/126254197/229332319-dd4729f9-e59a-4842-9fbe-717f65a65fc1.png)
+
+
+
+
