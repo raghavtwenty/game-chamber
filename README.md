@@ -12,7 +12,7 @@ Signup page, login page, Home page, profile page, game stats page, leaderboard p
 
 # Concepts Covered:<br>
 Objects & classes, Inheritance, Interface, Access specifiers, Constructors, Method overloading, Exception handling, Swings, This keyword,
-Super keyword, Final keyword
+Super keyword, Final keyword.
 
 
 # System Design:
